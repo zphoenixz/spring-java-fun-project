@@ -1,5 +1,6 @@
 package com.coderhouse.springbootcrudmysql.service;
 
+import com.coderhouse.springbootcrudmysql.handle.FirstApplicationException;
 import com.coderhouse.springbootcrudmysql.model.User;
 import com.coderhouse.springbootcrudmysql.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
